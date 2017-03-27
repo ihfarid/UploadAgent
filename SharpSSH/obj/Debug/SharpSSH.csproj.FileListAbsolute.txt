@@ -1,0 +1,42 @@
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\ResolveAssemblyReference.cache
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSsh.jsch.examples.InputForm.resources
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\SharpSSH.csproj.GenerateResource.Cache
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.dll
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.pdb
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\ResolveAssemblyReference.cache
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSsh.jsch.examples.InputForm.resources
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\SharpSSH.csproj.GenerateResource.Cache
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.dll
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.pdb
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\ResolveAssemblyReference.cache
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSsh.jsch.examples.InputForm.resources
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\SharpSSH.csproj.GenerateResource.Cache
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.dll
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.pdb
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\ResolveAssemblyReference.cache
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSsh.jsch.examples.InputForm.resources
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\SharpSSH.csproj.GenerateResource.Cache
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.dll
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.pdb
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\SharpSSH\obj\Debug\ResolveAssemblyReference.cache
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSsh.jsch.examples.InputForm.resources
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\SharpSSH\obj\Debug\SharpSSH.csproj.GenerateResource.Cache
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.dll
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.pdb
+C:\ARC\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+C:\ARC\Sandoz.UploadAgent\SharpSSH\obj\Debug\ResolveAssemblyReference.cache
+C:\ARC\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSsh.jsch.examples.InputForm.resources
+C:\ARC\Sandoz.UploadAgent\SharpSSH\obj\Debug\SharpSSH.csproj.GenerateResource.Cache
+C:\ARC\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.dll
+C:\ARC\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.pdb
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\SharpSSH\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSsh.jsch.examples.InputForm.resources
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\SharpSSH\obj\Debug\SharpSSH.csproj.GenerateResource.Cache
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.dll
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\SharpSSH\obj\Debug\Tamir.SharpSSH.pdb

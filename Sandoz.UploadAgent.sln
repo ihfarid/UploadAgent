@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandoz.UploadAgent", "Sandoz.UploadAgent\Sandoz.UploadAgent.csproj", "{16370577-383D-4340-BB51-CB9C597621BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpSSH", "SharpSSH\SharpSSH.csproj", "{D27CF69D-4681-492A-BE4D-D3D209104423}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sandoz.AgentSetup", "Sandoz.AgentSetup\Sandoz.AgentSetup.vdproj", "{3BFA2459-EB44-416A-B324-9EE4117379B6}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://202.84.34.91:2487/tfs
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Sandoz.AgentSetup\\Sandoz.AgentSetup.vdproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = Sandoz.AgentSetup\\
+		SccProjectUniqueName2 = Sandoz.UploadAgent\\Sandoz.UploadAgent.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = Sandoz.UploadAgent\\
+		SccProjectUniqueName3 = SharpSSH\\SharpSSH.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = SharpSSH\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16370577-383D-4340-BB51-CB9C597621BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16370577-383D-4340-BB51-CB9C597621BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16370577-383D-4340-BB51-CB9C597621BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16370577-383D-4340-BB51-CB9C597621BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27CF69D-4681-492A-BE4D-D3D209104423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27CF69D-4681-492A-BE4D-D3D209104423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27CF69D-4681-492A-BE4D-D3D209104423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27CF69D-4681-492A-BE4D-D3D209104423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BFA2459-EB44-416A-B324-9EE4117379B6}.Debug|Any CPU.ActiveCfg = Debug
+		{3BFA2459-EB44-416A-B324-9EE4117379B6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

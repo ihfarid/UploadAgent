@@ -1,0 +1,130 @@
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.config
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.frmMain.resources
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.Properties.Resources.resources
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.csproj.GenerateResource.Cache
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.manifest
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.application
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.pdb
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.dll
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\DiffieHellman.dll
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Org.Mentalis.SecurityServices.dll
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe.manifest
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.application
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe
+C:\Local\TFS\Sandoz\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.pdb
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.config
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.pdb
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.manifest
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.application
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.pdb
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.dll
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\DiffieHellman.dll
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Org.Mentalis.SecurityServices.dll
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.frmMain.resources
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.Properties.Resources.resources
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.csproj.GenerateResource.Cache
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe.manifest
+C:\Local\TFS\NBLCode\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.application
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\ResolveAssemblyReference.cache
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.frmMain.resources
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.Properties.Resources.resources
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.csproj.GenerateResource.Cache
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.config
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.manifest
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.application
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.pdb
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe.manifest
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.application
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.pdb
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.dll
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\DiffieHellman.dll
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Org.Mentalis.SecurityServices.dll
+F:\10 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.config
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.pdb
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\ResolveAssemblyReference.cache
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.frmMain.resources
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.Properties.Resources.resources
+F:\11 Nov 2016--UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.csproj.GenerateResource.Cache
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\ResolveAssemblyReference.cache
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.Properties.Resources.resources
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.csproj.GenerateResource.Cache
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe.manifest
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.application
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.pdb
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.exe.config
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.exe.manifest
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.application
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.exe
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.pdb
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\Tamir.SharpSSH.dll
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\DiffieHellman.dll
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\Org.Mentalis.SecurityServices.dll
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\Tamir.SharpSSH.pdb
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.exe.config
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.frmMain.resources
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.Properties.Resources.resources
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.csproj.GenerateResource.Cache
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe.manifest
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.application
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.exe.manifest
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.application
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.pdb
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.exe
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.pdb
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\Tamir.SharpSSH.dll
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\DiffieHellman.dll
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\Org.Mentalis.SecurityServices.dll
+C:\ARC\Sandoz.UploadAgent\Sandoz.UploadAgent\Tamir.SharpSSH.pdb
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.frmMain2.resources
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.frmMain.resources
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.exe.config
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.exe.manifest
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.application
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.exe
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\Sandoz.UploadAgent.pdb
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\Tamir.SharpSSH.dll
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\DiffieHellman.dll
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\Org.Mentalis.SecurityServices.dll
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\Tamir.SharpSSH.pdb
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Sandoz.UploadAgent.exe.config
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.frmMain.resources
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.frmMain2.resources
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.Properties.Resources.resources
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.csproj.GenerateResource.Cache
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.config
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.manifest
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.application
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.pdb
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\DiffieHellman.dll
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Org.Mentalis.SecurityServices.dll
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe.manifest
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.application
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.exe
+C:\Users\adm_server\Desktop\Sandoz.UploadAgent\Sandoz.UploadAgent\obj\Debug\Sandoz.UploadAgent.pdb
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.config
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe.manifest
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.application
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.exe
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Sandoz.UploadAgent.pdb
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.dll
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\DiffieHellman.dll
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Org.Mentalis.SecurityServices.dll
+E:\Farid\Software\TFS2012\Sandoz.UploadAgent\Sandoz.UploadAgent\bin\Debug\Tamir.SharpSSH.pdb
